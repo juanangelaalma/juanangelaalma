@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning at University of Surabaya
 - 💬 Ask me about anything you want
 - ⚡ Fun fact: I love my self
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanangelaalma&show_icons=true&theme=tokyonight)](https://github.com/juanangelaalma/github-readme-stats)
+
