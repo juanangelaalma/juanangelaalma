@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.juanalma.me/cv/juan-angela-alma.pdf](https://www.juanalma.me/cv/juan-angela-alma.pdf)
 
-- ⚡ Fun fact **I am a sigma male bro**
+- ⚡ Fun fact **I'm a sigma male bro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
