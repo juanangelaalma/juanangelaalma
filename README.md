@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Angela Alma</h1>
-<h3 align="center">A software angineer with over 5 years in coding experience</h3>
-
-- 🔭 I’m currently working on **Peduly** as Web Developer
+<h3 align="center">A software engineer with over 5 years in coding experience</h3>
 
 - 🌱 I’m currently learning **at State University of Surabaya**
 
