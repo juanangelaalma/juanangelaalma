@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at State University of Surabaya**
 
-- 👨‍💻 All of my projects are available at [juanalma.me](https://juanalma.me)
+- 👨‍💻 All of my projects are available at [juanangelaalma.vercel.app](https://juanalma.me)
 
 - 💬 Ask me about **javascript, react, laravel, express, node js, mysql, mongodb**
 
