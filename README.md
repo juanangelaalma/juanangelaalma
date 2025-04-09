@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juanangelaalma@gmail.com**
 
-- 📄 Know about my experiences [juanalma.me/cv/juan-angela-alma.pdf](https://www.juanalma.me/cv/juan-angela-alma.pdf)
+- 📄 Know about my experiences [juanalma.me/cv/juan-angela-alma.pdf](https://juanangelaalma.vercel.app/cv/20-05-24-juan-angela-alma.pdf)
 
 - ⚡ Fun fact **I am a sigma male bro**
 
