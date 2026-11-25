@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/profile-banner.svg" alt="Juan Angela Alma · Software Engineer" width="780">
+  <img src="./assets/profile-banner.png" alt="Juan Angela Alma · Software Engineer" width="780">
 </h1>
 
 <p align="center">
