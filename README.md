@@ -40,6 +40,22 @@ Backend for a child growth and nutrition app. The API connects nutrition models 
 
 [More projects on my portfolio](https://www.juanalma.cloud/#projects)
 
+## Recent Open Source Contributions
+
+Merged pull requests from the last 90 days, refreshed daily.
+
+<!-- recent-contributions:start -->
+
+| Project | Pull request | Merged (UTC) |
+| --- | --- | --- |
+| asasemahmed&#47;openboard | [fix&#40;app&#41;&#58; add Gemini CLI to Connect an agent dialog](https://github.com/asasemahmed/openboard/pull/87) | 2026-11-14 |
+| serveroshq&#47;panel | [Fix singular wording in Artisan command output](https://github.com/serveroshq/panel/pull/45) | 2026-11-12 |
+| shopware&#47;shopware | [fix&#40;storefront&#41;&#58; wrap long category names in offcanvas submenu](https://github.com/shopware/shopware/pull/22781) | 2026-11-12 |
+
+[All merged public pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ajuanangelaalma+-user%3Ajuanangelaalma)
+
+<!-- recent-contributions:end -->
+
 ## Technical Stack
 
 - **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
