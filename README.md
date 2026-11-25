@@ -3,32 +3,42 @@
 </h1>
 
 <p align="center">
-  <a href="https://juanangelaalma.vercel.app">Portfolio</a> ·
+  <a href="https://www.juanalma.cloud/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/juanangelaalma">LinkedIn</a> ·
   <a href="mailto:juanangelaalma@gmail.com">Email</a>
 </p>
 
-I'm based in Indonesia. My web projects include a browser photo editor, a crowdfunding API with payment integration, and an app for a local election.
+I'm based in Indonesia and build web apps and APIs for workflows like collecting zakat, processing donations, and tracking nutrition.
 
 ## Featured Projects
 
-### [Twib Snap](https://github.com/juanangelaalma/twibb-snap)
+### [El Muna Zakat](https://github.com/juanangelaalma/elmuna-zakat-v2)
 
-A browser-based editor for adding twibbons to photos. Upload a photo, drag it into position within the frame, and download the result.
+A zakat management system that tracks cash and rice contributions from collection to shift handover.
 
-`Next.js` · `TypeScript`
+- Amil teams record contributions and send digital receipts via WhatsApp.
+- At shift handover, staff reconcile cash and rice balances.
+- A public dashboard shows collection totals.
 
-### [Crowdfunding API](https://github.com/juanangelaalma/crowdfunding-api-nodejs)
+`Laravel` · `React` · `Inertia.js` · `TypeScript`
 
-A Node.js backend for crowdfunding with Midtrans payment integration. The code is organized by domain entity, and the endpoints are documented in [Postman](https://documenter.getpostman.com/view/12785068/2s8ZDbUzuJ).
+![El Muna Zakat public dashboard showing cash and rice totals and rice stock](./assets/el-muna-zakat-dashboard.webp)
 
-`JavaScript` · `Node.js` · `Midtrans`
+*Dashboard preview from a local instance with no transaction data.*
 
-### [SIVRE](https://github.com/juanangelaalma/sivre)
+### [AksiHijau](https://github.com/Aksi-Hijau/aksihijau-backend)
 
-A voting app built for the youth organization's chairperson election at Masjid Agung Al Munawwar in Tulungagung.
+I worked on the backend for this Bangkit capstone, which combines tree-planting campaigns and donations with soil analysis and plant recommendations. The API handles campaigns, donations, and Midtrans payments.
 
-`JavaScript`
+`Node.js` · `Express` · `MySQL` · `Midtrans`
+
+### [Mediku](https://github.com/MantaSetel/mediku-backend)
+
+Backend for a child growth and nutrition app. The API connects nutrition models with food data, nutrition reference values, and daily assessment records.
+
+`Node.js` · `MySQL` · `TensorFlow.js` · `Google Cloud`
+
+[More projects on my portfolio](https://www.juanalma.cloud/#projects)
 
 ## Technical Stack
 
