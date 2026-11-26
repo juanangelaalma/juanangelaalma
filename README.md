@@ -21,8 +21,8 @@ A zakat management system that tracks cash and rice contributions from collectio
 - A public dashboard shows collection totals.
 
 `Laravel` · `React` · `Inertia.js` · `TypeScript`
+<img width="2558" height="1596" alt="image" src="https://github.com/user-attachments/assets/d2763fb6-78ac-4f9b-bb5b-5e0e6619115b" />
 
-![El Muna Zakat public dashboard showing cash and rice totals and rice stock](./assets/el-muna-zakat-dashboard.webp)
 
 *Dashboard preview from a local instance with no transaction data.*
 
