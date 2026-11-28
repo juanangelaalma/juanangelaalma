@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
   <title id="title">Merged public pull requests per week</title>
-  <desc id="desc">Weeks start Monday (UTC). 2026-08-31: 0; 2026-09-07: 0; 2026-09-14: 0; 2026-09-21: 0; 2026-09-28: 0; 2026-10-05: 0; 2026-10-12: 0; 2026-10-19: 0; 2026-10-26: 0; 2026-11-02: 0; 2026-11-09: 3; 2026-11-16: 0; 2026-11-23: 0.</desc>
+  <desc id="desc">Weeks start Monday (UTC). 2026-08-31: 0; 2026-09-07: 0; 2026-09-14: 0; 2026-09-21: 0; 2026-09-28: 0; 2026-10-05: 0; 2026-10-12: 0; 2026-10-19: 0; 2026-10-26: 0; 2026-11-02: 0; 2026-11-09: 3; 2026-11-16: 0; 2026-11-23: 1.</desc>
   <rect x=".5" y=".5" width="719" height="239" rx="14" fill="#0d1918" stroke="#365450"/>
   <g font-family="system-ui, sans-serif">
     <text x="30" y="41" font-size="26" font-weight="650" fill="#f0faf5">Merged PRs per week</text>
-    <text x="690" y="41" text-anchor="end" font-size="21" fill="#b1e6d3">3 total</text>
+    <text x="690" y="41" text-anchor="end" font-size="21" fill="#b1e6d3">4 total</text>
     <path d="M30 190H690" stroke="#58716d"/>
     <text x="60" y="222" text-anchor="middle" font-size="22" fill="#c2d6d1">31 Aug</text>
     <text x="210" y="222" text-anchor="middle" font-size="22" fill="#c2d6d1">21 Sep</text>
@@ -12,6 +12,8 @@
     <text x="510" y="222" text-anchor="middle" font-size="22" fill="#c2d6d1">02 Nov</text>
     <rect x="545" y="87" width="30" height="103" rx="2" fill="#71d6b4"/>
     <text x="560" y="80" text-anchor="middle" font-size="23" fill="#f0faf5">3</text>
+    <rect x="645" y="156" width="30" height="34" rx="2" fill="#71d6b4"/>
+    <text x="660" y="149" text-anchor="middle" font-size="23" fill="#f0faf5">1</text>
     <text x="660" y="222" text-anchor="middle" font-size="22" fill="#c2d6d1">23 Nov</text>
   </g>
 </svg>
